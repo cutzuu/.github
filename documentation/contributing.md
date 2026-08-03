@@ -12,10 +12,15 @@ Automaticly Denied PRs:
 - Mass number of changes in one PR.
 - Grammar corrections / Rephrasing / Removing empty lines
 - Messy code (no offense)
-- Anything not genuinely expected for a PR
+- Anything not genuinely expected for a PR.
 
 ## Issues
 Assisting others in an issue is encouraged but please:
 - Keep the issue on topic.
-- Do not pretend to know. We all rather admit you don't.
+- Do not pretend to know. We all rather you admit you don't know.
 - Keep things civil, hostility and edge-lording is not allowed.
+
+## AI Generated Content
+Code believed to be AI Generated will be denied as I cannot verify source material.
+
+Using AI for reference is allowed but directly copying from is not.
