@@ -10,3 +10,4 @@
 - [Youtube](https://youtube.com/cutzuu)
 - [Discord](https://discord.gg/UE6ytbFHTa)
 - [Bukkit](https://dev.bukkit.org/members/cutzuu/projects)
+- [Curseforge](https://www.curseforge.com/members/cutzuu/projects)
