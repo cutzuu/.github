@@ -9,4 +9,4 @@
 - [Modrinth](modrinth.com/cutzuu)
 - [Youtube](https://youtube.com/cutzuu)
 - [Discord](https://discord.gg/UE6ytbFHTa)
-- [Bukkit](https://dev.bukkit.org/members/cutzuu)
+- [Bukkit](https://dev.bukkit.org/members/cutzuu/projects)
