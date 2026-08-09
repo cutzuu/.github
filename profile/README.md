@@ -7,7 +7,7 @@
 ## Links
 - [KO-FI](https://ko-fi.com/cutzuu)
 - [Modrinth](https://modrinth.com/user/cutzuu)
-- [Youtube](https://youtube.com/cutzuu)
+- [Youtube](https://youtube.com/@cutzuu)
 - [Discord](https://discord.gg/UE6ytbFHTa)
 - [X](https://x.com/cutzuuYT)
 - [Bukkit](https://dev.bukkit.org/members/cutzuu/projects)
